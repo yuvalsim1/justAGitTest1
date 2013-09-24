@@ -5,7 +5,7 @@
 package javaapplication12;
 
 /**
- *
+ *aaaS
  * @author Lab
  */
 public class NewClass2 {

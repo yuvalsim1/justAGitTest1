@@ -6,7 +6,7 @@ package javaapplication12;
 //aaS
 /**
  *
- * @author Lab
+ * @author Lab fff
  */
 public class JavaApplication12 {
 
